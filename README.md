@@ -1,3 +1,4 @@
+Aufgabe 3 Doris Padickakudy
 1. a
   * d
 2. b
