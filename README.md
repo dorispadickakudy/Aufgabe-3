@@ -1,8 +1,8 @@
 ####Aufgabe 3 Doris Padickakudy
-1. a
+* a
   * d
-3. b
-4. c
+2. b
+3. c
 
 | Happy | Happy 2 | Happy 3|
 |-------|---------|--------|
